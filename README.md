@@ -14,7 +14,8 @@ Qianwen Xie
 Huiyu Yang
 
 ## Technology
-Restful,  
+Restful, Java, Object-oriented, Greenfoot, 
+Design Patterns(Single Pattern, State Pattern, Observer Pattern, Decorator Pattern, Adapter Pattern, Command Pattern)
 
 ## Date
 Dec 16, 2016
