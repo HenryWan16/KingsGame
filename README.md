@@ -11,10 +11,10 @@ You need to install [greenfoot](http://www.greenfoot.org/download) at first.
 And then install [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index-jsp-138363.html);
 
 ## AUTHORS
-[Hui Wan](https://www.linkedin.com/in/hui-wan-905469133/)
-Jiheng Lu
-Hanping Lin
-Qianwen Xie
+[Hui Wan](https://www.linkedin.com/in/hui-wan-905469133/),
+Jiheng Lu,
+Hanping Lin,
+Qianwen Xie,
 Huiyu Yang
 
 ## Technology
