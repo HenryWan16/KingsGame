@@ -18,6 +18,7 @@ Huiyu Yang
 ## Technology
 Restful, Java, Object-oriented, Greenfoot, 
 Design Patterns(Single Pattern, State Pattern, Observer Pattern, Decorator Pattern, Adapter Pattern, Command Pattern)
+[Document about our game]()
 
 ## Date
 Dec 16, 2016
