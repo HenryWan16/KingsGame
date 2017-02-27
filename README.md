@@ -1,5 +1,7 @@
 # KingsGame
 KingsGame is a game to help children to learn basic ideas about quick sort algorithm. This is the Version 2.0.
+Quick sort is simple and brilliant sort algorithm. 
+The quick sort uses divide and conquer to gain the same advantages as the merge sort, while not using additional storage.
 You can clone our source code, and double click the project.greenfoot icon to run our game.
 
 ## User Instructions:
